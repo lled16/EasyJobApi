@@ -1,0 +1,15 @@
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\bin\Debug\net6.0\EasyJob.Application.deps.json
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\bin\Debug\net6.0\EasyJob.Application.dll
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\bin\Debug\net6.0\EasyJob.Application.pdb
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\bin\Debug\net6.0\EasyJob.Domain.dll
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\bin\Debug\net6.0\EasyJob.Domain.pdb
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\EasyJob.Application.csproj.AssemblyReference.cache
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\EasyJob.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\EasyJob.Application.AssemblyInfoInputs.cache
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\EasyJob.Application.AssemblyInfo.cs
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\EasyJob.Application.csproj.CoreCompileInputs.cache
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\EasyJob.Application.csproj.CopyComplete
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\EasyJob.Application.dll
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\refint\EasyJob.Application.dll
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\EasyJob.Application.pdb
+C:\Users\JoaoSimao\Documents\joao\React\Projeto\EasyJobApi\EasyJob.Application\obj\Debug\net6.0\ref\EasyJob.Application.dll

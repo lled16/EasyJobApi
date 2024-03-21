@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OHYMoMOdzJ0nqbQF78Qv7L8hjvRMdCEG3Nv/sc1FxfvM7FX6tePQ/WNuXHI0hR8c7wUDuGWKMRu2AHJQLougZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Application\\EasyJob.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\JoaoSimao\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

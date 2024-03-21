@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJobApi\\EasyJobApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Application\\EasyJob.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Application\\EasyJob.Application.csproj",
+        "projectName": "EasyJob.Application",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Application\\EasyJob.Application.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj",
+        "projectName": "EasyJob.Domain",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Data\\EasyJob.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Data\\EasyJob.Infra.Data.csproj",
+        "projectName": "EasyJob.Infra.Data",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Data\\EasyJob.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Ioc\\EasyJob.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Ioc\\EasyJob.Infra.Ioc.csproj",
+        "projectName": "EasyJob.Infra.Ioc",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Ioc\\EasyJob.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Application\\EasyJob.Application.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Application\\EasyJob.Application.csproj"
+              },
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Domain\\EasyJob.Domain.csproj"
+              },
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Data\\EasyJob.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Data\\EasyJob.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJobApi\\EasyJobApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJobApi\\EasyJobApi.csproj",
+        "projectName": "EasyJobApi",
+        "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJobApi\\EasyJobApi.csproj",
+        "packagesPath": "C:\\Users\\JoaoSimao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJobApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JoaoSimao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Ioc\\EasyJob.Infra.Ioc.csproj": {
+                "projectPath": "C:\\Users\\JoaoSimao\\Documents\\joao\\React\\Projeto\\EasyJobApi\\EasyJob.Infra.Ioc\\EasyJob.Infra.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
